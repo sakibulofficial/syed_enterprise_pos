@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1016948472066-6stnfc5od31l59rtug3djva6j9j6nt3k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1016948472066-6stnfc5od31l59rtug3djva6j9j6nt3k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCW6sqcEipL82e2ufLnMxlySf7mVPEmDs0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1016948472066</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ekotalab.syedEnterprisePos</string>
+	<key>PROJECT_ID</key>
+	<string>syed-enterprise-pos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>syed-enterprise-pos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1016948472066:ios:71dd2ba42936bec70faa1b</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016948472066",
+    "project_id": "syed-enterprise-pos",
+    "storage_bucket": "syed-enterprise-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016948472066:android:a455dff8d239a7090faa1b",
+        "android_client_info": {
+          "package_name": "com.ekotalab.syed_enterprise_pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016948472066-cav5uvvudq57itg0boan8ihvffn81sn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfmQy4ELJqbVNNGox213RPz5EYYFb80lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016948472066-cav5uvvudq57itg0boan8ihvffn81sn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
